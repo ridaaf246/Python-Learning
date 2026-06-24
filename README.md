@@ -1,3 +1,2 @@
 # Python-Learning
-All complete file of Python Learning
-My whole practice is in it.
+This repository contains my daily Python learning practice, including all exercises, code, and topics I learn each day
