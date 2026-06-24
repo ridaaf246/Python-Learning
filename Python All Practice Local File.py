@@ -187,7 +187,9 @@ print (ball)
 
 
 print(name [2])
-#print 2nd string character, here array is used
+#print specific string character, here array is used
 
 for character in msg:
  print(character)
+ #loop use to print all the characters of a string, syntax( for _______ in ____ )
+ #1st blank contain loop variable name, 2nd blank contain our varibale name whose characters we want to print
