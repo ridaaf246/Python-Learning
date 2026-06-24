@@ -144,7 +144,50 @@ print(int(a)+int(b))
 
 a = input("Enter first number")
 b = input("Enter second number")
-print(float(a)+float(b))
+print(float(a) + float(b))
 #here convert data type of both inputs to float then we will get our output
 
 print("final, end")
+
+name = "rida"
+classs = "bs AI"
+grades = "not bad but not good"
+msg = "hey, keep learning, " \
+"you will get the result" \
+"inshallah" \
+"yeah i am focousing on my skills"
+# for multiple string we can simple press enter as well, it is done by the vs code to make it a multiple string with no error
+print(name + classs + grades + msg)
+
+apple = 'he siad, "he like apples"'
+print(apple)
+
+ball = '''he said,
+"he really want to play with ball".
+i think we should go and play what he want
+oky
+we can play with ball first'''
+#multiple line string can be written in single quotes
+print (ball)
+
+
+
+
+ball = """he said,
+"he really want to play with ball".
+i think we should go and play what he want
+oky
+we can play with ball first"""
+
+print (ball)
+#multiple line string can be written in single quotes
+
+
+
+
+
+print(name [2])
+#print 2nd string character, here array is used
+
+for character in msg:
+ print(character)
